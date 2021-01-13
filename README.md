@@ -3,11 +3,11 @@
 ## Sprite Sheets
 
 [Download](https://github.com/narranoid/Affinity-Macro-Library/raw/master/SpriteSheets.afmacros)  
-[Tutorial]()
+[Tutorial](https://www.youtube.com/watch?v=lF-7f66AifM)
 
 The sprite sheet macros feature a variety of tricks for quickly generating sprite sheets out of your layer stack.
 I made a tutorial on how to use them including various other tricks for creating sprite sheets.
-Check it out [here]().
+Check it out [here](https://www.youtube.com/watch?v=lF-7f66AifM).
 
 ### Tile Bounding Box
 
